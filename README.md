@@ -1,1 +1,1 @@
-i am working now
+creating a script that switches current user
