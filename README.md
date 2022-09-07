@@ -1,1 +1,1 @@
-creating a script that switches current user
+scripts that prints hello world
