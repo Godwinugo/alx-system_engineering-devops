@@ -1,1 +1,1 @@
-scripts that prints hello world
+Shell, init files, variables and expansions
